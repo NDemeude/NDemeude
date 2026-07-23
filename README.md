@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Nicolas Demeude 👋
 
-<!--
-**NDemeude/NDemeude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer passionate about software engineering, infrastructure and cybersecurity.
 
-Here are some ideas to get you started:
+I build applications, game systems and backend services while exploring cloud technologies, networking and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+### Backend
+- Java
+- Node.js
+- Python
+- PHP
+- MySQL
+
+### Infrastructure & DevOps
+- Docker
+- Linux
+- Cloudflare
+- REST APIs
+- Server administration
+
+### Tools
+- Git
+- Postman
+- Ghidra
+
+### Game Development
+- Java (Minecraft plugins)
+- Lua (Roblox scripting)
+- Blockbench
+
+## 📌 Featured Projects
+
+### Univers Of Parks Resort
+Minecraft community project recreating French theme parks.
+
+Technologies:
+Java, MySQL, Node.js, HTML, Blockbench
+
+---
+
+### Shokai RP
+Roblox roleplay experience inspired by Naruto.
+
+Technologies:
+Lua
+
+---
+
+## 📈 Currently learning
+
+- Cloud architecture
+- Networking
+- Cybersecurity
+- DevOps practices
+
+## 📫 Contact
+
+Portfolio: https://ndemeude.tech
