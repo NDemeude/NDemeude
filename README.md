@@ -1,24 +1,25 @@
 # Hi, I'm Nicolas Demeude 👋
 
-Backend developer passionate about software engineering, infrastructure and cybersecurity.
+Backend & Infrastructure developer passionate about software engineering, cloud technologies and cybersecurity.
 
-I build applications, game systems and backend services while exploring cloud technologies, networking and security.
+I build backend services, applications and game systems while exploring networking, infrastructure, automation and security.
 
 ## 🚀 Technologies
 
-### Backend
+### Backend Development
 - Java
 - Node.js
 - Python
 - PHP
 - MySQL
+- REST APIs
 
 ### Infrastructure & DevOps
-- Docker
 - Linux
+- Docker
 - Cloudflare
-- REST APIs
 - Server administration
+- Deployment & automation
 
 ### Tools
 - Git
@@ -32,21 +33,25 @@ I build applications, game systems and backend services while exploring cloud te
 
 ## 📌 Featured Projects
 
-### Univers Of Parks Resort
-Minecraft community project recreating French theme parks.
+### 🎢 Univers Of Parks Resort
 
-Technologies:
-Java, MySQL, Node.js, HTML, Blockbench
+A Minecraft community project recreating French theme parks with immersive gameplay systems and custom development.
+
+**Technologies:**
+Java · MySQL · Node.js · HTML · Blockbench
 
 ---
 
-### Shokai RP
-Roblox roleplay experience inspired by Naruto.
+### 🍥 Shokai RP
 
-Technologies:
+A Roblox roleplay experience inspired by the Naruto universe, featuring custom gameplay systems and scripted mechanics.
+
+**Technologies:**
 Lua
 
 ---
+
+[View all projects →](https://ndemeude.tech/#projects)
 
 ## 📈 Currently learning
 
